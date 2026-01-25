@@ -1,2 +1,14 @@
 # Windows11
-Windows 11 Resources
+Windows 11 Resources for PC deployment & customization
+
+**Debloat Script**
+https://github.com/Raphire/Win11Debloat  
+
+**Remove AI Components**
+https://github.com/zoicware/RemoveWindowsAI  
+
+**WinAero Tweaker**
+https://winaerotweaker.com/
+
+
+
