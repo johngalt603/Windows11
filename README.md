@@ -10,7 +10,7 @@ https://github.com/zoicware/RemoveWindowsAI
 **WinAero Tweaker**
 https://winaerotweaker.com/
 
-**NT Lite**  
-https://www.ntlite.com
+**NT Lite**
+https://www.ntlite.com  
 
 
