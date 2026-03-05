@@ -22,7 +22,8 @@ https://www.ntlite.com
 # Activation Resources
 
 **MassGrave**
-https://massgrave.dev/online_kms  
+https://massgrave.dev  
+
 https://github.com/massgravel/Microsoft-Activation-Scripts  
 
 
