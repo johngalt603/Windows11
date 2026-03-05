@@ -26,5 +26,7 @@ https://massgrave.dev
 
 https://github.com/massgravel/Microsoft-Activation-Scripts  
 
+https://github.com/ShadowsLunarfox/kms-server-list  
+
 
 
