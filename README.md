@@ -19,4 +19,11 @@ https://winaerotweaker.com
 **NT Lite**
 https://www.ntlite.com  
 
+# Activation Resources
+
+**MassGrave**
+https://massgrave.dev/online_kms  
+https://github.com/massgravel/Microsoft-Activation-Scripts  
+
+
 
