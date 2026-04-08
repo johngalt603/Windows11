@@ -1,7 +1,7 @@
 # Windows11
 Windows 11 Resources for PC deployment & customization
 
-**WindHawk - Mods**  
+**WindHawk - Mods**
 https://windhawk.net/  
 
 **WinUTIL - Chris Titus**
